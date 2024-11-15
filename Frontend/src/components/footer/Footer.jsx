@@ -29,7 +29,7 @@ const Footer = () => {
             <h2>Contact Us</h2>
             <ul>
                 <li>+91-9887750094</li>
-                <li>amanrj248@gmai.com</li>
+                <li>gonrupa8@gmai.com</li>
             </ul>
         </div>
       </div>
